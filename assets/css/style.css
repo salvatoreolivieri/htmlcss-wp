@@ -5,7 +5,7 @@
 }
 
 .clearfix:after{
-  content: "";
+  content: " ";
   display: table;
   clear: both;
 }
@@ -79,11 +79,16 @@ div.overlay{
   height: 100%;
 }
 
-/* div.overlay h1,p{
-  color: white;
-  padding-left: 20px;
-} */
 
+.overlay p, h1{
+  color: white;
+  padding-left: 50px;
+  width: 40%;
+}
+
+h1{
+  padding-top: 450px;
+}
 
 
  /* 
