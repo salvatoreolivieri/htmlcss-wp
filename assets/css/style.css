@@ -3,3 +3,46 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+
+
+body{
+  width: 80%;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* 
+HEADER
+ */
+
+header .logo{
+  margin-bottom: 20px;
+}
+
+header li{
+  list-style-type: none;
+  text-transform: uppercase;
+  display: inline;
+  color: #C1C1C1;
+  margin: 5px;
+}
+
+header li:hover{
+  color: #971817;
+  cursor: pointer;
+}
+
+
+ /* 
+MAIN
+ */
+
+
+
+
+
+ /* 
+FOOTER
+ */
